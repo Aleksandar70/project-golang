@@ -1,3 +1,3 @@
-module iteration
+module main
 
 go 1.16
